@@ -8,12 +8,10 @@ We've reviewed 8 EEG CDA related papers and tried to reproduce their results wit
 | Perturbing neural representations of working memory with task-irrelevant interruption | Hakim                     | 2020 |
 | Data from brain activity during visual working memory replicates the correlation between contralateral delay activity and memory capacity | Villena-Gonzalez          | 2019 |
 | Neural evidence for an object-based pointer system underlying working memory | Balaban                   | 2019 |
-| EEG dynamics reveal a dissociation between storage and selective attention
-within working memory | Gunseli                   | 2019 |
+| EEG dynamics reveal a dissociation between storage and selective attention within working memory | Gunseli                   | 2019 |
 | Dissecting the Neural Focus of Attention Reveals Distinct Processes for Spatial | Hakim                     | 2019 |
 | Contralateral delay activity tracks fluctuations in working memory performance | Adam                      | 2018 |
-| Delay Activity Indexes Working Memory Storage, not the Current
-Focus of Spatial Attention | Feldmann-Westerfel        | 2018 |
+| Delay Activity Indexes Working Memory Storage, not the Current Focus of Spatial Attention | Feldmann-Westerfel        | 2018 |
 
 ---
 ## Citation
